@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Falling bricks", "Falling bricks\Falling bricks.csproj", "{48AB5C2C-2E19-4F75-8BB3-075D14E27506}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game Library", "Game Library\Game Library.csproj", "{3F015AA3-5A81-4628-9B70-A76E3B6947D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48AB5C2C-2E19-4F75-8BB3-075D14E27506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48AB5C2C-2E19-4F75-8BB3-075D14E27506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48AB5C2C-2E19-4F75-8BB3-075D14E27506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48AB5C2C-2E19-4F75-8BB3-075D14E27506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F015AA3-5A81-4628-9B70-A76E3B6947D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F015AA3-5A81-4628-9B70-A76E3B6947D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F015AA3-5A81-4628-9B70-A76E3B6947D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F015AA3-5A81-4628-9B70-A76E3B6947D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {825A482C-66B0-400A-A918-516B2FEECAE6}
+	EndGlobalSection
+EndGlobal
